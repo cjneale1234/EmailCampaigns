@@ -24,3 +24,5 @@ ESP Compatability
 -----------------------------------------------------------------
 
 Style Sheets have been converted into Inline CSS, however the head CSS can be used in third party email client which converts an entire HTML file
+
+@Media Queries Have been formatted for Screen sizes and mobile optimization.
