@@ -4,6 +4,7 @@ A sample of email templates for various use. Inline css added into one simple HT
 These are sample templates developed for use and replication.
 
 Each is coded in HTML and CSS with image pulls from hosted Domains.
+
 ---------------------------------------------------------------
 
 ESP Compatability
